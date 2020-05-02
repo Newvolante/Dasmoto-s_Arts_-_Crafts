@@ -1,0 +1,33 @@
+.page_header {
+    color: khaki;
+    font-size: 6em;
+    text-align: center;
+    background-image: url('pattern.jpeg');
+}
+
+body {
+    font-family: Helvetica, Arial;
+}
+
+h2 {
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.blue_text {
+    color: Blue;
+    font-weight: bold;
+}
+
+#brushes {
+    background-color: mediumspringgreen;
+}
+
+#frames {
+    background-color: lightcoral;
+}
+
+#paint {
+    background-color: skyblue;
+}
